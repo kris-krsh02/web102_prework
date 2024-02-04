@@ -1,10 +1,10 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Sea Monster Crowdfunding Website*
 
 Submitted by: **Kristiana Karshelieva**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monster Crowdfunding Website** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **3.5** hours spent in total
 
 ## Required Features
 
@@ -17,7 +17,12 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [X] List anything else that you can get done to improve the app functionality!
+
+- Make design responsive to different screen dimensions. **Implemented**
+- Make design more accessible through using colors with higher contrast. **Implemented**
+- A button that takes you back to the top of the page. 
+- A search bar in the navbar that displays a specific game card or nothing depending on whether the game is in the list or not. 
 
 ## Video Walkthrough
 
@@ -34,7 +39,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Since I am not as experiences in Javascript as in HTML and CSS, it was a bit difficult to get things right from the first time at sveral features, but it was also a great learning experience, seeing different functionalities in the process of coding the website. 
 
 ## License
 

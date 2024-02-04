@@ -148,7 +148,7 @@ const descriptionContainer = document.getElementById("description-container");
 const unfundedNum = GAMES_JSON.reduce((num, game) => {return num + (game.pledged < game.goal ? 1:0)}, 0);
 
 // create a string that explains the number of unfunded games using the ternary operator
-const displayStr = `A total of $${amountRaised.toLocaleString()} has been raised for ${GAMES_JSON.length}. Currently, ${unfundedNum} ${unfundedNum > 1 ? 'games are':'game is'} unfunded. We need your help to fund these amazing games!`
+const displayStr = `A total of $${amountRaised.toLocaleString()} has been raised for ${GAMES_JSON.length} games. Currently, ${unfundedNum} ${unfundedNum > 1 ? 'games are':'game is'} unfunded. We need your help to fund these amazing games!`
 
 // create a new DOM element containing the template string and append it to the description container
 let par = document.createElement('p');
