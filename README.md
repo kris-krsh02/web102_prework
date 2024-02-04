@@ -39,7 +39,7 @@ GIF created with ...
 
 ## Notes
 
-Since I am not as experiences in Javascript as in HTML and CSS, it was a bit difficult to get things right from the first time at sveral features, but it was also a great learning experience, seeing different functionalities in the process of coding the website. 
+Since I am not as experienced in Javascript as in HTML and CSS, it was a bit difficult to get things right from the first time at sveral features, but it was also a great learning experience, seeing different functionalities in the process of coding the website. 
 
 ## License
 
